@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\TextRedactorPavlova\bin\Debug\TextRedactorPavlova.exe.config
+C:\Users\student\Desktop\TextRedactorPavlova\bin\Debug\TextRedactorPavlova.exe
+C:\Users\student\Desktop\TextRedactorPavlova\bin\Debug\TextRedactorPavlova.pdb
+C:\Users\student\Desktop\TextRedactorPavlova\obj\Debug\TextRedactorPavlova.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\TextRedactorPavlova\obj\Debug\TextRedactorPavlova.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\TextRedactorPavlova\obj\Debug\TextRedactorPavlova.Form1.resources
+C:\Users\student\Desktop\TextRedactorPavlova\obj\Debug\TextRedactorPavlova.Properties.Resources.resources
+C:\Users\student\Desktop\TextRedactorPavlova\obj\Debug\TextRedactorPavlova.csproj.GenerateResource.cache
+C:\Users\student\Desktop\TextRedactorPavlova\obj\Debug\TextRedactorPavlova.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\TextRedactorPavlova\obj\Debug\TextRedactorPavlova.exe
+C:\Users\student\Desktop\TextRedactorPavlova\obj\Debug\TextRedactorPavlova.pdb
